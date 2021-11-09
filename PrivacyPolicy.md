@@ -2,7 +2,7 @@ Simple Clocks Privacy Policy
 
 A note from the developer:
 
-I am deeply committed to online privacy, not only for myself, but for my users. Therefore, I make it a priority to protect user privacy in every way possible. I attempt to be as straightforward and easy to understand as possible. With that being said -
+I am deeply committed to online privacy, not only for myself, but for my users. Therefore, I make it a priority to protect user privacy in every way possible. With that being said -
 
 - Simple Clocks does not have any first or third party trackers. Your preferences, usage, and other data including widget selection, are entirely processed on device.
 
