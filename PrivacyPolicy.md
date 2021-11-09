@@ -17,3 +17,5 @@ https://www.revenuecat.com
 Contact
 
 If you have any questions, please feel free to reach out to simpleclocks@protonmail.com.
+
+Last updated November 8th, 2021
